@@ -11,7 +11,7 @@ html,body{
 #main{
     width: 100%;
     height: 100%;
-    background-color: #f90505;
+    background-color: #ffffff;
 }
 #left{
     position: absolute;
@@ -24,18 +24,17 @@ html,body{
     left: 40%;
     width: 60%;
     height: 100%;
-    background-color: #0fc36f;
+
 }
 #top{
     position: relative;
     width: 100%;
     height: 50%;
-    background-color: #3c16c5;
+
 }
 #bottom{
     width: 100%;
     height: 50%;
-    background-color: #f2f60b;
     background-image: url(programming.jpg);
     background-size: cover;
     background-position: center;
@@ -44,7 +43,6 @@ html,body{
 #left1{
     width: 50%;
     height: 100%;
-    background-color: #f705ba;
     background-image: url(design.jpg);
     background-size: cover;
     background-position: center;
@@ -54,7 +52,6 @@ html,body{
     left: 50%;
     width: 50%;
     height: 100%;
-    background-color: #07bced;
     background-image: url(website.jpg);
     background-size: cover;
     background-position: center;
