@@ -1,0 +1,103 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+
+}
+#main{
+    width: 100%;
+    height: 100%;
+    background-color: #f90505;
+}
+#left{
+    position: absolute;
+    width: 40%;
+    height: 100%;
+    background-color: #fff;
+}
+#right{
+    position: absolute;
+    left: 40%;
+    width: 60%;
+    height: 100%;
+    background-color: #0fc36f;
+}
+#top{
+    position: relative;
+    width: 100%;
+    height: 50%;
+    background-color: #3c16c5;
+}
+#bottom{
+    width: 100%;
+    height: 50%;
+    background-color: #f2f60b;
+    background-image: url(programming.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#left1{
+    width: 50%;
+    height: 100%;
+    background-color: #f705ba;
+    background-image: url(design.jpg);
+    background-size: cover;
+    background-position: center;
+}
+#right1{
+    position: absolute;
+    left: 50%;
+    width: 50%;
+    height: 100%;
+    background-color: #07bced;
+    background-image: url(website.jpg);
+    background-size: cover;
+    background-position: center;
+}
+#left h1{
+    font-size: 70px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 100px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+}
+#li1{
+    font-size: 40px;
+    font-family:'Courier New', Courier, monospace;
+    color:#07bced;
+
+}
+#li2{
+    font-size: 40px;
+    font-family:'Courier New', Courier, monospace;
+    color:#838a8f;
+}
+#li3{
+    font-size: 40px;
+    font-family:'Courier New', Courier, monospace;
+    color:#230c5f;
+}
+#left h3 li{
+    margin-left: 60px;
+
+}
+#left h3 input{
+    width: 140px;
+    height: 50px;
+    font-size: 20px;
+    margin-left: 200px;
+    margin-top: 80px;
+    border-radius: 40px;
+    background-color: black;
+    color:#fff;
+}
+#left h3 input:hover{
+    width: 142px;
+    height: 52px;
+
+}
